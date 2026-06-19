@@ -46,7 +46,6 @@ python3 main.py
 | Key | Action |
 |-----|--------|
 | ← → ↑ ↓ | Move tiles |
-| Mouse click | Start / Restart |
 
 ## Project Structure
 
