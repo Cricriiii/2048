@@ -1,6 +1,6 @@
 # 2048
 
-A Python implementation of the classic [2048](https://play2048.co/) puzzle game, built with Pygame.
+A small Python implementation of the classic [2048](https://play2048.co/) puzzle game, built with Pygame.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-2.x-green?logo=python)
