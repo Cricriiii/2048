@@ -26,7 +26,7 @@ A small Python implementation of the classic 2048 puzzle game, built with Pygame
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/2048.git
+git clone https://github.com/Cricriiii/2048.git
 cd 2048
 
 python3 -m venv .venv
